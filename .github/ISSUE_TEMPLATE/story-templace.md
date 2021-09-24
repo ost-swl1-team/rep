@@ -16,7 +16,7 @@ Als ... möchte ich ... damit ...
 
 **Check List**  
 AK | &#10003; 
---|--
+---|---
 AK1: ... | 
 AK2: ... | 
 AK3: ... |
