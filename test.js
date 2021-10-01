@@ -8,7 +8,7 @@ http.createServer(
         response.writeHead(200, {'Content-Type': 'text/plain'});
 
         // Send the response body as "Hello World"
-        response.end('And another Start Screen Texting ...\n');
+        response.end('And another Start Screen Texting ....\n');
 }).listen(8081);
 
 // Console will print the message in the terminal
